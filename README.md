@@ -1,6 +1,6 @@
 # OZearth-flash
 이투스 오지훈 선생님의 [카페](https://cafe.naver.com/ozearth "카페")에 올려진 플래시 파일들을 번역하였습니다.
-Github 또는 [ozearth.science](ozearth.science "ozearth.science")에서 확인 가능합니다.
+Github 또는 [ozscience.space](http://ozscience.space "ozscience.space")에서 확인 가능합니다.
 
 [JPEXS Free Flash Decompiler](https://www.free-decompiler.com/flash/ "JPEXS Free Flash Decompiler")를 사용하여 번역하였습니다.
 
