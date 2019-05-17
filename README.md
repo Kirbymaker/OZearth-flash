@@ -2,6 +2,8 @@
 이투스 오지훈 선생님의 [카페](https://cafe.naver.com/ozearth "카페")에 올려진 플래시 파일들을 번역하였습니다.
 Github 또는 [ozearth.science](ozearth.science "ozearth.science")에서 확인 가능합니다.
 
+[JPEXS Free Flash Decompiler](https://www.free-decompiler.com/flash/ "JPEXS Free Flash Decompiler")를 사용하여 번역하였습니다.
+
 ## 사용법
 [어도비 플래시](https://get.adobe.com/kr/flashplayer "어도비 플래시") 설치가 필요합니다.
 - 익스플로러 사용법: 다운로드는 불가능하며 플래시 설치 후 클릭 시 자동으로 실행됩니다
